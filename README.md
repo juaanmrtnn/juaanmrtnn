@@ -1,20 +1,17 @@
 <h1 align="center">hi there! i'm juan 👋</h1>
-<h3 align="center">computer engineering student from Sevilla, Spain🌎</h3>
+<h3 align="center">Computer Engineering student 🎓 | from Cádiz, living in Sevilla, Spain🌎</h3>
 
 <p align="center">
-  I love building projects, solving problems, and learning new technologies every day.
+  i'm currently pursuing my degree in Computer Engineering in Pablo de Olavide University, Sevilla. i enjoy solving complex problems using simple code solutions and architectural software patrons. i'm also interested in learning how metaheuristics and optimization algorithms work. 
 </p>
 
 ---
 
-### 👨‍💻 About me
+### 👨‍💻 about me
 
-- 🔭 I’m currently working on **[Cool project name you are working on]**
-- 🌱 I’m currently learning **[Technology you are studying, e.g., Python, React, Docker]**
-- 👯 I’m looking to collaborate on **[Open source projects, crazy ideas, etc.]**
-- 💬 Ask me about **[Your strong topics, e.g., JavaScript, Databases]**
-- 📫 How to reach me: **[Your email]**
-- ⚡ Fun fact: **[Something fun about you, e.g., I drink way too much coffee when coding ☕]**
+- 🔭 i’m currently on my 4th year of degree.
+- 🌱 i’m currently deepening my knowledge in algorithms and web development.
+- 📫 How to reach me: jmarper22@gmail.com
 
 ---
 
