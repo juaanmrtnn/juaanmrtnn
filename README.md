@@ -9,8 +9,9 @@
 
 ### 👨‍💻 about me
 
-- 🔭 i’m currently on my 4th year of degree.
-- 🌱 i’m currently deepening my knowledge in algorithms and web development.
+- 🔭 currently on my 4th year of degree.
+- 🌱 deepening my knowledge in algorithms and web development.
+- 🌐 providing web development services for [Spanish Rock Shot Radio](https://www.spanishrockshot.com/), maintaining and updating their site.
 - 📫 how to reach me: jmarper22@gmail.com
 
 ---
