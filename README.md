@@ -32,15 +32,6 @@
 
 ---
 
-### 📊 My GitHub Stats
-
-<div align="center">
-  <!-- IMPORTANT: Change "YOUR_USERNAME_HERE" to your actual GitHub username in both links -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juaanmrtnn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juaanmrtnn&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ### 🤝 Connect with me
 
